@@ -1,2 +1,4 @@
 Django==5.2.13
 djangorestframework==3.17.1
+pypdf==6.16.2
+reportlab==5.0.1
