@@ -24,6 +24,7 @@ Running migrations:
   Applying auth.0001_initial... OK
   Applying admin.0001_initial... OK
   Applying packaging.0001_initial... OK
+  Applying packaging.0002_alter_product_height_alter_product_length_and_more... OK
   Applying sessions.0001_initial... OK
 test_create_and_read_box ... ok
 test_create_and_read_product ... ok
@@ -53,7 +54,7 @@ test_weight_equal_to_capacity_is_accepted ... ok
 test_weight_over_capacity_is_rejected ... ok
 
 ----------------------------------------------------------------------
-Ran 26 tests in 0.081s
+Ran 26 tests in 0.043s
 
 OK
 Destroying test database for alias 'default'...
