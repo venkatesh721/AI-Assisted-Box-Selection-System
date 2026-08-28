@@ -1,6 +1,6 @@
 # AI-Assisted Box Selection System
 
-Repository URL: **Include your actual repository URL here.**
+Repository URL: [https://github.com/venkatesh721/AI-Assisted-Box-Selection-System](https://github.com/venkatesh721/AI-Assisted-Box-Selection-System)
 
 ## Overview
 
