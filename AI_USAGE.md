@@ -58,6 +58,6 @@ Results:
 - All 26 tests passed.
 - GitHub Actions CI also completed successfully for the pushed repository.
 
-## Submitter review
+## Submitter Review
 
-This document records the actual AI-assisted development activity for this repository. The submitter should review it, correct anything that does not match their own process, and keep it truthful before submission.
+I have reviewed this document and confirm that it accurately reflects my AI-assisted development process for this assignment.
